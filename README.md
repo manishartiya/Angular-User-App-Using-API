@@ -1,4 +1,30 @@
-# 🧩 Frontend Developer (Angular) - Practical Assignment
+# 🧩 Frontend Developer (Angular)
+
+## Screenshot:
+<img width="1900" height="860" alt="image" src="https://github.com/user-attachments/assets/e430e1b7-1c78-4263-93e0-420106529f56" />
+
+Filters:
+<img width="1898" height="869" alt="image" src="https://github.com/user-attachments/assets/c5232158-e602-4585-b5d0-78ae7768eb2d" />
+
+<img width="1899" height="862" alt="image" src="https://github.com/user-attachments/assets/57a01b56-97b4-42d8-8d96-5ab646af02b0" />
+
+
+User Profile Pop-Up:
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/709d8e6b-71b0-406f-9133-5f79830b1701" />
+
+User Profile By URL:
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/a62a2a9b-4e7d-4263-8544-19f60e2176e9" />
+<img width="1918" height="450" alt="image" src="https://github.com/user-attachments/assets/43ea4f4a-1c59-41b8-9009-85566946a1cb" />
+
+
+
+
+Dark Mode:
+<img width="1900" height="864" alt="image" src="https://github.com/user-attachments/assets/e7842d4b-3c6e-4dda-866e-0984e4e54a95" />
+<img width="1900" height="862" alt="image" src="https://github.com/user-attachments/assets/2cd509e7-b9f5-4a68-a91a-f3812bed6b61" />
+
+
+
 
 ## 📘 Objective
 This project demonstrates key Angular concepts and best practices, including:
